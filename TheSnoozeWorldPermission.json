@@ -1,10 +1,5 @@
 {
-  "vip": [
-    "Jayden20000",
-    "Angryyyy",
-    "_Saidai_"
-  ],
-  "staff": [
+  "staffplus": [
     "The Snooze",
     "Shethzor",
     "Hiiemii",
@@ -15,7 +10,9 @@
     "just_Tank_it",
     "Kahr",
     "Michinori",
-    "Risukachi",
+    "Risukachi"
+  ],
+  "staff": [
     "Tomoki3178",
     "kamii'",
     "༒BloodHound༒",
@@ -27,5 +24,10 @@
   ],
   "vipplus": [
     "TANZVERBOT"
+  ],
+  "vip": [
+    "Jayden20000",
+    "Angryyyy",
+    "_Saidai_"
   ]
 }
