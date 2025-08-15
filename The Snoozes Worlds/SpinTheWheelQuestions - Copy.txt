@@ -350,3 +350,103 @@ Give out 2 sips if you've changed avatars in the past 5 minutes.
 Everyone drinks if you've been kicked from a world.
 Give out 2 sips if you are in a friends+ world right now.
 Take a drink when you've changed avatars in the past 5 minutes.
+Drink if your avatar has transparent clothing.
+Take a shot if you’ve ever done karaoke in VRChat.
+Chug for 5 seconds if you’ve been to a VRChat rave in the last month.
+Take 2 if you’ve been in a friends+ lobby for over 3 hours today.
+Drink if your avatar has a skirt with physics.
+Take a shot if you’ve accidentally joined a public ERP world.
+Everyone with floating accessories drinks.
+Drink if you’ve crashed at least once today.
+Give out 3 sips if you have over 300 friends.
+Drink if you’ve joined a world just to check the mirror.
+Sip if you’ve switched avatars more than 5 times today.
+Take 2 if you’ve stood in the mirror with randoms in silence.
+Drink if your avatar has animated wings.
+Give out 2 sips if you’ve ever hosted a VRChat drinking game.
+Drink if you’ve ever slept in a VRChat world.
+Take 2 shots if you’ve joined a portal without knowing where it went.
+Everyone wearing a maid outfit drinks.
+Drink if you’ve been in a VRChat club world in the past week.
+Take 1 sip for every togglable prop on your avatar.
+Drink if your avatar has smoke particle effects.
+Take a shot if you’ve ever been muted for mic spam.
+Drink if your avatar has gloves.
+Give out a sip to everyone with the same gender avatar as yours.
+Drink if you’ve been AFK for more than an hour today.
+Take 2 if you’ve been in a VRChat roleplay world this week.
+Drink if your avatar has jewelry.
+Give a shot to the person with the biggest avatar here.
+Drink if your avatar has a full mask or helmet.
+Take 3 if you’ve ever streamed VRChat.
+Everyone wearing black drinks.
+Drink if you’ve switched avatars to avoid attention.
+Take 2 if you’ve done a photo shoot in VRChat.
+Drink if your avatar has an idle animation.
+Give out 5 sips if you’ve ever deleted someone and re-added them.
+Drink if your avatar’s hair has physics.
+Take a shot if you’ve been in a VRChat cuddle pile.
+Drink if you’ve used an OSC device today.
+Give out 3 if you’ve been in a friends+ world in the past hour.
+Drink if you’ve joined a random public just for the vibes.
+Take a shot if you’ve joined a VRChat rave world this weekend.
+Drink if your avatar is based on an anime character.
+Give a sip to the person with the shortest avatar here.
+Drink if you’ve ever been blocked in VRChat.
+Take 2 shots if you’ve been instance master for more than 2 hours today.
+Drink if you’ve been in a world with a pool.
+Everyone in animal ears drinks.
+Drink if you’ve joined a VRChat sleep world this month.
+Take a shot if your avatar is from Booth.
+Drink if you’ve respawned in the past 10 minutes.
+Give 3 sips if you’ve been to a public event world today.
+Drink if you’ve accidentally toggled NSFW content.
+Take 2 if you’ve been in VRChat for over 10 hours straight before.
+Drink if your avatar has glasses.
+Give a sip to everyone who’s changed avatars in the last 5 minutes.
+Drink if your avatar has a tail.
+Take 3 shots if you’ve had a VRChat wedding.
+Drink if you’ve been in a mirror with strangers for over 30 minutes.
+Give 2 sips if you’ve played a VRChat minigame today.
+Drink if you’ve joined a VRChat club world.
+Take a shot if you’ve been in a VRChat AFK world.
+Drink if your avatar glows in the dark.
+Give out 4 sips if you’ve had avatar commissions made for you.
+Drink if your avatar has flowers on it.
+Take 2 if you’ve been muted by more than one person this week.
+Drink if your avatar has a hat.
+Give a sip to the person whose avatar you like most.
+Drink if your avatar has LED effects.
+Take a shot if you’ve ever been in a VRChat argument.
+Drink if you’ve joined a public cuddle world.
+Give out 3 sips if you’ve uploaded an avatar yourself.
+Drink if your avatar has wings.
+Take 2 if you’ve ever joined a VRChat meetup.
+Drink if you’ve been to a seasonal VRChat world this year.
+Give a sip to anyone with rainbow hair in-game.
+Drink if your avatar has armor.
+Take 3 shots if you’ve made a VRChat world.
+Drink if you’ve been the only one talking in a group.
+Give 2 sips if you’ve done ERP in VRChat.
+Drink if your avatar has a scarf.
+Take a shot if you’ve joined a friends+ just to lurk.
+Drink if you’ve seen someone crash in the past 10 minutes.
+Give out 3 sips if you’ve danced in VRChat.
+Drink if you’ve been on VRChat during work or school.
+Take a shot if you’ve ever joined a VRChat sleepover event.
+Drink if your avatar has custom emotes.
+Give 2 sips if you’ve ever been portal-bombed.
+Drink if you’ve joined a public club world tonight.
+Take 2 if you’ve been to a VRChat photoshoot world.
+Drink if your avatar has cyberpunk elements.
+Give a sip to everyone in desktop mode.
+Drink if your avatar has neon lights.
+Take 3 if you’ve joined a VRChat contest event.
+Drink if your avatar has animated eyes.
+Give 4 sips if you’ve been in VRChat over 24 hours without logging out.
+Drink if you’ve joined a world because you saw a portal there.
+Take a shot if you’ve been to a VRChat movie world.
+Drink if your avatar has moving hair.
+Give 2 sips to people who have matching outfits.
+Drink if you’ve ever joined a VRChat improv event.
+Take a shot if your avatar has a cape.
